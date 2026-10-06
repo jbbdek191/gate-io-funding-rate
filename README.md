@@ -1,0 +1,1 @@
+# gate-io-funding-rate
